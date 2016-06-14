@@ -8,7 +8,7 @@
  * Time: 12:06
  */
 
-namespace Tools
+namespace Tools;
 
 /**
  * Class Curl
