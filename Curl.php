@@ -2,8 +2,8 @@
 /**
  * A Curl Class to manage your call
  * @author: Housseini Toumani
- * @package Osin/Tools
- * @link https://github.com/Osin/Tools
+ * @package Osin/CurlClient
+ * @link https://github.com/Osin/CurlClient
  * Date: 02/04/15
  * Time: 12:06
  */
