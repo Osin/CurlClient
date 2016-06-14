@@ -8,6 +8,8 @@
  * Time: 12:06
  */
 
+namespace Tools
+
 /**
  * Class Curl
  * @package Tools
